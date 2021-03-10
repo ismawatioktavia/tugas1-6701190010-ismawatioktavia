@@ -1,2 +1,3 @@
 IP Semester 1 = 4.0
 IP Semester 2 = 3.98
+IP Semester 3 = 4.0
