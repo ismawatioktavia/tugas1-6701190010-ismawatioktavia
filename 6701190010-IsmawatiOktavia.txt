@@ -2,3 +2,5 @@ Nama		: Ismawati Oktavia
 NIM		: 6701190010
 TTL		: Banyumas, 28 Oktober 2001
 IPK		: 3,98
+Hobi		: Mendengarkan Musik
+Cita-cita	: Data Analyst
